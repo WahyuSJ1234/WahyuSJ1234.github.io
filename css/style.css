@@ -1,0 +1,132 @@
+/* Universal */
+html, body {
+    font-family: sans-serif;
+    margin: 0;
+    background-image: url("../Gambar/kaneki\ full.jpg");
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+}
+/* Universal */
+
+/* Header */
+.header {
+	padding-top: 15px;
+	padding-bottom: -1px;
+    position: relative;
+    background-image: url("../Gambar/kaneki1.jpg");
+}
+
+.site-logo {
+	display: inline-block;
+	padding-top: 18px;
+    padding-left: 80px;
+}
+.Logo {
+    width: 50px;
+}
+
+.menu_ul {
+	list-style: none;
+	float: right;
+    padding-right: 30px;
+}
+
+.menu_ul li {
+    display: inline-block;
+    -o-table-baseline: inherit;
+}
+
+.menu_ul li a {
+	display: block;
+	font-size: 13px;
+	color: black;
+	font-weight: 600;
+	text-transform: uppercase;
+	padding: 25px 0;
+	margin-right: 45px;
+}
+.myprofile {
+    padding: 50px 15px;
+    position: relative;
+    height: 450px;
+}
+
+.myprofile-warp {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.myprofile-text{
+    padding-left: 30px;
+    width: 50%;
+    float: left;
+}
+
+.myprofile-text h1 {
+	font-size: 48px;
+	margin-bottom: 25px;
+}
+
+.myprofile-text p {
+	margin-bottom: 45px;
+	text-align: justify;
+}
+.profile-foto {
+    width: 45%;
+   float: right;
+}
+
+.foto_profile{
+   background: url("../Gambar/kaneki2.jpg");
+   background-size: 50%;
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 300px;
+}
+
+.table {
+    text-align: justify;
+}
+.table-data {
+    margin-bottom: 45px;
+    text-align: justify;
+}
+.table-data th {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 247, 247);
+    text-align: justify
+}
+.footer-section {
+	background: #212121;
+	padding: -1px 40px;
+	position: relative;
+}
+
+.footer-social {
+    text-align: right;
+	margin-right: 30px;
+	height: 40px;
+	padding-top: 40px;
+}
+
+.footer-social a {
+	margin-right: 50px;
+}
+
+.icon{
+	width: 20px;
+}
+
+.footer-copyright {
+	color: #fff;
+	font-size: 11px;
+	font-weight: 500;
+    padding: 4px 0;
+}
+.about {
+    padding-bottom: 300px;
+    
+}
